@@ -1,0 +1,22 @@
+# Dataset
+
+The dataset used in this project is **Sentiment140**, obtained from Kaggle.
+
+**Dataset Name:** Sentiment140
+
+**Source:** Kaggle
+
+**Dataset Link:**  
+https://www.kaggle.com/datasets/kazanova/sentiment140
+
+## Dataset Description
+
+The original dataset contains approximately 1.6 million tweets labeled with sentiment values:
+
+- **0:** Negative sentiment
+- **4:** Positive sentiment
+
+For this experiment, a sample of 2,000 tweets was selected from the original dataset:
+
+- 1,000 records from the beginning
+- 1,000 records from the end
